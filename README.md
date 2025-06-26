@@ -40,3 +40,6 @@ and below scripts
 ```
 npm run deploy
 ```
+
+## References
+[How To Deploy A React Vite App To Github Pages (Simple)](https://www.youtube.com/watch?v=hn1IkJk24ow)
